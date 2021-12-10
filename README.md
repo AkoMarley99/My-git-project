@@ -15,3 +15,6 @@
 
 ## made changes for git pull demo
 >>>>>>> 654ecf46a0bba77fb053fe694699201f129e97ab
+
+
+update redme merge conflict demo
