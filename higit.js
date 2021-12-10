@@ -1,1 +1,1 @@
-print'hi git'
+conseol.log('hi git')
